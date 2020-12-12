@@ -1,0 +1,11 @@
+package com.atguigu.git;
+
+/**
+ * @author pls
+ * @create 2020-12-12 16:41
+ */
+public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("hello_git");
+    }
+}
